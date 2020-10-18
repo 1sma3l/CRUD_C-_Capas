@@ -1,0 +1,6 @@
+C:\Users\crawl\Documents\Practicas .NET\Capas_CRUD\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\crawl\Documents\Practicas .NET\Capas_CRUD\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\crawl\Documents\Practicas .NET\Capas_CRUD\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\crawl\Documents\Practicas .NET\Capas_CRUD\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\crawl\Documents\Practicas .NET\Capas_CRUD\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\crawl\Documents\Practicas .NET\Capas_CRUD\CapaDatos\obj\Debug\CapaDatos.pdb
